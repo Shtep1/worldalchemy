@@ -1,4 +1,4 @@
-# World Alchemy Strategy — своя онлайн-версия (без claude.ai)
+# Ember to Empire — своя онлайн-версия (без claude.ai)
 
 В папке: `index.html` (игра), `server.js` (сервер без зависимостей, нужен только Node 18+), `Dockerfile`.
 
